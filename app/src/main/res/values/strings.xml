@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudyBuddy</string>
+    <string name="app_tagline">Your Personal Study Companion</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_timer">Timer</string>
+    <string name="nav_more">More</string>
+    <string name="channel_timer_name">Study Timer</string>
+    <string name="channel_timer_desc">Alerts when a Pomodoro focus or break session finishes</string>
+    <string name="channel_tasks_name">Assignment Deadlines</string>
+    <string name="channel_tasks_desc">Reminders for upcoming tasks and deadlines</string>
+    <string name="channel_schedule_name">Class Schedule</string>
+    <string name="channel_schedule_desc">Reminders before your scheduled classes</string>
+    <string name="channel_daily_name">Daily Study Reminders</string>
+    <string name="channel_daily_desc">Daily scheduled study check-in notifications</string>
+</resources>

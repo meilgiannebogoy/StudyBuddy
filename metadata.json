@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy",
+  "description": "Personal study companion with task management, weekly class schedule, Pomodoro timer, notes, quizzes, flashcards, AI study assistant, and progress tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
